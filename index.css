@@ -4,7 +4,6 @@
     border-color: black;
     border: black;
     scale: 99%;
-
 }
 
 .mainLink{
@@ -30,7 +29,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    
+
     color:white;
     text-shadow: 1px 1px black;
 }
